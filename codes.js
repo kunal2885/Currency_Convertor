@@ -159,3 +159,4 @@ const countryList = {
   ZMK: "ZM",
   ZWD: "ZW",
 };
+//list of country code and currency code
