@@ -38,4 +38,6 @@ Currency_Convertor/
 2. Enter the amount to be converted.
 3. Click the **Convert** button.
 4. The app fetches real-time exchange rates from the API and displays the converted amount.
+<br>
+Author - Kunal Phogat
 
